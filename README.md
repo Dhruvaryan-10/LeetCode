@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -90,14 +94,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
