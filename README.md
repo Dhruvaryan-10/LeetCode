@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0078-subsets) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
