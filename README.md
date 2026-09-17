@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0443-string-compression) |
