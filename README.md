@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0049-group-anagrams) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0344-reverse-string) |
