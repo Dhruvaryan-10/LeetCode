@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0242-valid-anagram) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
