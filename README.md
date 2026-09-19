@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
