@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
