@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -171,18 +172,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -294,4 +299,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
