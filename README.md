@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
