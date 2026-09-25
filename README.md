@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
