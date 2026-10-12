@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
