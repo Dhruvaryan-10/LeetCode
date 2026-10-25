@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1254-number-of-closed-islands](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
