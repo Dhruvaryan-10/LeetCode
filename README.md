@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2409-count-days-spent-together](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2409-count-days-spent-together) |
