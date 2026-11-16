@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhruvaryan-10/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvaryan-10/LeetCode/tree/master/0054-spiral-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhruvaryan-10/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruvaryan-10/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
